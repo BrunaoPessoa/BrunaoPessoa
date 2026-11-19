@@ -1,0 +1,31 @@
+codigo_lead,data,dia_semana,hora_chegada,canal,negocio,dentro_do_horario,primeira_resposta_em_minutos,mensagem_inicial,houve_follow_up,agendou_visita
+L01,2026-11-02,segunda,08:12,Portal,Compra,Não,98,"Bom dia, o AP-204 ainda está disponível?",Sim,Sim
+L02,2026-11-02,segunda,10:30,WhatsApp,Locação,Sim,25,Quanto fica o condomínio do apartamento do Centro?,Sim,Sim
+L03,2026-11-02,segunda,13:05,Portal,Compra,Sim,140,Esse imóvel aceita financiamento?,Não,Não
+L04,2026-11-02,segunda,19:40,Portal,Compra,Não,840,"Oi, tenho interesse na casa da Vila Serena",Não,Não
+L05,2026-11-02,segunda,22:15,Site,Locação,Não,705,Vocês têm 2 quartos pra alugar perto do Centro?,Sim,Não
+L06,2026-11-03,terça,09:20,WhatsApp,Compra,Sim,15,Consigo visitar o AP-204 amanhã?,Sim,Sim
+L07,2026-11-03,terça,11:45,Portal,Compra,Sim,210,Ainda está à venda?,Não,Não
+L08,2026-11-03,terça,12:30,Instagram,Compra,Sim,sem resposta,Qual o valor desse da foto?,Não,Não
+L09,2026-11-03,terça,18:50,Portal,Locação,Não,850,Aceita pet?,Sim,Sim
+L10,2026-11-03,terça,23:10,Portal,Compra,Não,620,Ainda disponível? Aceita FGTS?,Não,Não
+L11,2026-11-04,quarta,07:55,Portal,Compra,Não,110,"Bom dia, gostaria de agendar uma visita",Sim,Sim
+L12,2026-11-04,quarta,10:10,WhatsApp,Locação,Sim,40,Quais garantias vocês aceitam?,Sim,Sim
+L13,2026-11-04,quarta,14:00,Portal,Compra,Sim,185,Tem vaga de garagem?,Não,Não
+L14,2026-11-04,quarta,16:40,Site,Compra,Sim,70,"Quero vender meu apartamento, vocês avaliam?",Sim,Não
+L15,2026-11-04,quarta,20:30,Portal,Compra,Não,sem resposta,Ainda tá disponível?,Não,Não
+L16,2026-11-05,quinta,09:05,WhatsApp,Compra,Sim,20,Dá pra fazer por 390?,Sim,Não
+L17,2026-11-05,quinta,12:50,Portal,Locação,Sim,160,O de 3 quartos do Jardim das Acácias ainda está pra alugar?,Não,Não
+L18,2026-11-05,quinta,17:55,Portal,Compra,Sim,960,Quero mais fotos do AP-204,Sim,Sim
+L19,2026-11-05,quinta,21:40,Instagram,Locação,Não,sem resposta,"Vi o story, quanto é o aluguel?",Não,Não
+L20,2026-11-06,sexta,08:40,Portal,Compra,Não,95,Posso visitar no sábado?,Sim,Sim
+L21,2026-11-06,sexta,11:15,Portal,Compra,Sim,260,Qual o valor do IPTU?,Não,Não
+L22,2026-11-06,sexta,15:30,WhatsApp,Locação,Sim,30,"Preciso mudar em dezembro, tem algo até 2 mil?",Sim,Sim
+L23,2026-11-06,sexta,19:20,Portal,Compra,Não,830,Está disponível ainda?,Não,Não
+L24,2026-11-06,sexta,23:50,Portal,Compra,Não,560,Tenho interesse,Não,Não
+L25,2026-11-07,sábado,10:00,Portal,Compra,Sim,45,Ainda disponível? Queria ver hoje,Sim,Sim
+L26,2026-11-07,sábado,12:40,Site,Locação,Sim,2840,Aceita seguro-fiança?,Não,Não
+L27,2026-11-07,sábado,15:10,Portal,Compra,Não,2580,Ainda está à venda a casa?,Não,Não
+L28,2026-11-07,sábado,20:05,Instagram,Compra,Não,sem resposta,Qual o condomínio?,Não,Não
+L29,2026-11-08,domingo,11:30,Portal,Compra,Não,1290,Quero agendar visita no AP-204,Sim,Sim
+L30,2026-11-08,domingo,18:15,Portal,Locação,Não,895,Ainda tem o apartamento do Centro pra alugar?,Sim,Não
